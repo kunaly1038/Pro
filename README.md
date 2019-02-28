@@ -1,5 +1,5 @@
 # Pro
 #Requirements
 
-1 : npm install /n
+1 : npm install 
 2 : npm install protractor
